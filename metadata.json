@@ -1,0 +1,5 @@
+{
+  "name": "GeoWall AI ",
+  "description": "An intelligent geotechnical application that designs and analyzes retaining walls based on soil parameters using standard engineering calculations and Gemini AI for detailed recommendations.",
+  "requestFramePermissions": []
+}
